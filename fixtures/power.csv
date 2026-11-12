@@ -1,0 +1,7 @@
+device,time_seconds,signed_power,unit
+ramp,0,0,W
+ramp,10,100,W
+regen,0,-100,W
+regen,10,100,W
+gap,0,10,W
+gap,30,20,W

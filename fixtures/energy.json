@@ -1,0 +1,39 @@
+{
+  "max_interpolation_gap_seconds": 10,
+  "power_bounds_W": {
+    "ramp": [
+      0,
+      120
+    ],
+    "regen": [
+      -120,
+      120
+    ],
+    "gap": [
+      -20,
+      80
+    ]
+  },
+  "queries": [
+    [
+      0,
+      10
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      5,
+      15
+    ]
+  ],
+  "gap_reference": {
+    "duration_seconds": 10,
+    "power_bounds_W": [
+      -20,
+      80
+    ]
+  },
+  "time_origin": "2026-11-10T00:00:00+08:00"
+}

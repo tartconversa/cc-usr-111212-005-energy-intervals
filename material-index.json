@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/energy.json",
+    "sha256": "5ff07e29776c3f141408b342f4e8f27fca4b595cbb45cc0b234050b8b4a24d3d",
+    "size_bytes": 453
+  },
+  {
+    "path": "fixtures/meters.csv",
+    "sha256": "c8135dabd6f1e4523369fb4dafbac4d3879f30c6346f50e7af81253ada34965f",
+    "size_bytes": 95
+  },
+  {
+    "path": "fixtures/power.csv",
+    "sha256": "ebd99af25cca9e08302975fc8466fa3675a6752546d13183f07d9b0268e2dc47",
+    "size_bytes": 116
+  }
+]
